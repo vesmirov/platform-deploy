@@ -3,6 +3,9 @@
 postgres.env
 platform.env
 
+# nginx
+host.conf
+
 # environment
 .git/*
 
