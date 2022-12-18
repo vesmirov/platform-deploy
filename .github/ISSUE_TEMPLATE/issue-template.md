@@ -1,7 +1,7 @@
 ---
-name: 'platform-deploy issue template '
-about: 'Custom issue template '
-title: CUSTOM
+name: Issue template
+about: 'Issue template '
+title: Title
 labels: ''
 assignees: vesmirov
 
