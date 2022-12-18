@@ -1,0 +1,17 @@
+# secrets
+# TODO setup vault encryption
+postgres.env
+platform.env
+
+# environment
+.git/*
+
+# apple
+.DS_Store
+._.DS_Store
+.AppleDouble
+.LSOverride
+
+# development
+.idea
+.vscode
